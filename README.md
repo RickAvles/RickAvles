@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile_banner" width="100%" alt="Henrique Rick Alves">
+<img src="./assets/profile_banner.png" width="100%" alt="Henrique Rick Alves">
 
 </div>
 
