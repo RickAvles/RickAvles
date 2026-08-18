@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="55%" valign="top">
 
 # Henrique "Rick" Alves
 
@@ -42,7 +42,7 @@ O **Lindvior** é uma plataforma de gerenciamento e simulação de estacionament
 
 </td>
 
-<td width="35%" valign="top" align="center">
+<td width="45%" valign="center" align="center">
 
 <img src="./assets/git_cat_backend_banner.png" width="100%" alt="Henrique Rick Alves">
 
