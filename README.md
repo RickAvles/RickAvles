@@ -1,6 +1,8 @@
-<table>
-<tr>
-<td width="55%" valign="top">
+<div align="center">
+
+<img src="./assets/x" width="100%" alt="Henrique Rick Alves">
+
+</div>
 
 # Henrique "Rick" Alves
 
@@ -20,7 +22,7 @@ Também estou sempre lendo novels, especialmente quando encontro alguma históri
 
 🐈 **Um gato** — que claramente considera a casa propriedade particular dele
 
-📷 **Fotografia** — real, virtual, Cyberpunk 2077, Forza Horizon 6, qualquer lugar onde dê para brincar com luz realistas
+📷 **Fotografia** — real, virtual, Cyberpunk 2077, Forza Horizon 6, qualquer lugar onde dê para brincar com luz realista
 
 🎬 **Filmes, séries e livros** — especialmente quando tem fantasia ou ficção no meio
 
@@ -39,13 +41,3 @@ O **Lindvior** é uma plataforma de gerenciamento e simulação de estacionament
 ## Tecnologias
 
 `Java` · `Spring Boot` · `PostgreSQL` · `Oracle` · `Kafka` · `RabbitMQ` · `Redis` · `Docker`
-
-</td>
-
-<td width="45%" valign="center" align="center">
-
-<img src="./assets/git_cat_backend_banner.png" width="100%" alt="Henrique Rick Alves">
-
-</td>
-</tr>
-</table>
